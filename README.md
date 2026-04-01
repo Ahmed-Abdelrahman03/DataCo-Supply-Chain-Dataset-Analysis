@@ -14,9 +14,9 @@ This project focuses on analyzing a complex supply chain dataset to identify log
 * **Excel:** Initial data exploration and validation.
 
 ##  Visualizations
-[Link to Tableau Public Dashboard](اضغط هنا وحط لينك التابلوه بتاعك)
+[Link to Tableau Public Dashboard](https://public.tableau.com/views/Book1_17745293172740/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##  Project Resources
-* [SQL Analysis Script](DataCo_Cleaning_Processsql)
-* [Business Presentation (PDF)](DataCoSupplyChainDataset - Presentation)
-* [Detailed Project Report (Word)](DataCoSupplyChainDataset - Documentation.)
+* SQL Analysis Script DataCo_Cleaning_Process.sql
+* Business Presentation (PDF)(DataCoSupplyChainDataset - Presentation)
+* Detailed Project Report (Word) (DataCoSupplyChainDataset - Documentation.)
