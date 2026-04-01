@@ -16,7 +16,7 @@ This project focuses on analyzing a complex supply chain dataset to identify log
 ##  Visualizations
 [Link to Tableau Public Dashboard](اضغط هنا وحط لينك التابلوه بتاعك)
 
-##  Project Structure
-* `/SQL_Queries`: Contains scripts for data cleaning and KPI calculations.
-* `/Screenshots`: Visual highlights of the dashboard.
-* `Presentation.pdf`: Detailed business findings.
+##  Project Resources
+* [SQL Analysis Script](DataCo_Cleaning_Processsql)
+* [Business Presentation (PDF)](DataCoSupplyChainDataset - Presentation)
+* [Detailed Project Report (Word)](DataCoSupplyChainDataset - Documentation.)
